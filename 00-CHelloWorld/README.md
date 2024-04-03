@@ -2,7 +2,7 @@
 Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
 
 ## Autor de la resolución 
-- **Usuario github:** [AndinoFranco21](https://github.com/AndinoFranco21)
+- **Usuario github:** [AndinoFranco21](https://github.com/Andinofran21)
   - **Legajo:** 209604-3 
   - **Apellido:** Andino
   - **Nombre:** Franco Arian
