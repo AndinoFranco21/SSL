@@ -7,4 +7,4 @@ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
   - **Apellido:** Andino
   - **Nombre:** Franco Arian
 
-Compilador GCC, version 12.2.0 (C18)
+Compilador GCC, version 13.2.0 (c2x)
